@@ -1,4 +1,3 @@
-// There are 3 situations.
 // The 1st one 
 // Just imagine a very bad of them. So, you are under the gun and tring to escape. Every words that you say can help you with it, but if you mistake, you should write a will. The atacker has level of stress from 0 to 3. If stress ups to 2 or 3, you should write a will. If you don't lie to him you will escape.
 let info = alert('Паспорт: Вас зовут J/john, и у вас есть 1000 долларов, но у вас нет ни пенни. Ах да, ваш нападавший - (Бездомный) с последнего урока, которого не пустили в клуб. Passport: Your name is J/john, and you have 1000$, but you have not got any penny. Oh yeah, your atacker is а (Homeless) man from the last lesson who was not allowed into the club.')
